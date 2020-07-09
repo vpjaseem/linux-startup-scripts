@@ -1,2 +1,2 @@
 # linux-startup-scripts
-#Conver windows edited file to Linux format sed -i 's/\r$//' filename
+#To convert windows edited file to Linux format use, sed -i 's/\r$//' filename
